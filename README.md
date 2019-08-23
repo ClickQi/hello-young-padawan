@@ -9,7 +9,7 @@
    <img width="400" src="https://media.makeameme.org/created/hello-young-padawan.jpg" alt="Hello Young Padawan">
 </p>
 
-##### Agora vc faz parte do nosso time. 🥳
+## Agora vc faz parte do nosso time. 🥳
 
 Sabemos que os primeiros dias no trampo novo é meio zuado, mas muita calma, vamos te da umas _call_ maneiras pra te ajudar a começar.
 Bora ?
@@ -28,7 +28,7 @@ Agora que temos combustivel vamo enfrente. 👉🏻
 O [Teamwork](https://www.teamwork.com/) é o nosso CRM. Através dele organizamos nosso fluxo de informação e interações com o cliente.<br />
 Vc pode acessar por [aqui](http://teamwork.clickqi.com.br/) e pode baixar o _Chat_ por [aqui](https://www.teamwork.com/chat/apps/#for_windows).
 
-<br /><br />
+<br />
 
 # Devs Things 💻
 ### Editor de código
