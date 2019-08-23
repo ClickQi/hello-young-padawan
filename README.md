@@ -31,5 +31,9 @@ Vc pode acessar por [aqui](http://teamwork.clickqi.com.br/) e pode baixar o _Cha
 <br />
 
 # Devs Things 💻
+Bora falar um pouco do nosso _workflow_ e das ferramentas que usamos aqui no desenvolvimento ?<br/>
+<img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/Jedi%205.gif" alt="Click Qi Tools">
+<br/>
+
 ### Editor de código
 Aqui na Click a maioria dos _Devs_ utilizam o [Visual Studio Code](https://code.visualstudio.com/) ou **VSCode** para os íntimos 🥰, como editor te código, porém não tem nenhuma regra não, pode uzar oque vc preferir.
