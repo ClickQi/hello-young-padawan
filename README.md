@@ -69,6 +69,12 @@ Abaixo um pouco das tecnologias que a gente gosta: 😍
 * E o [Webpack](https://webpack.js.org/) orquestando essa bagunça, organizada, é claro 😉
 
 
+E se vc estudar isso tudo com muito empenho...
+
+<p align="left" style="margin-bottom:10px;margin-top:10px;">
+   <img   src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/you-will-become-a-jedi.gif" alt="you will become a jedi">
+</p>
+
 ### Plataformas de e-commerce 🛒
 Nós somos uma agência digital especializada em e-commerce e trabalhamos com plataformas no modelo SaaS (Software as a Service). Atualmente [VTEX](https://www.vtex.com/) e [Tray Corp](https://www.traycorp.com.br/) são nossas parceiras.
 
@@ -79,8 +85,12 @@ Nós somos uma agência digital especializada em e-commerce e trabalhamos com pl
 * [Controles para prateleira](https://help.vtex.com/tutorial/controles-do-template-de-prateleira?locale=pt)
 * [VTEX IO](https://help.vtex.com/tracks/vtex-io-getting-started?locale=pt)
 
-Para acessar as plataformas da VTEX utilizar o modelo `[Nome da Loja].myvtex.com/` e `[Nome da Loja].myvtex.com/admin` para o painel de administração.
+Para acessar as plataformas da VTEX basta utilizar o modelo de URL `[Nome da Loja].myvtex.com/` e `[Nome da Loja].myvtex.com/admin` para o painel de administração.
 
 Para sua tranquilidade (e a nossa 😅), criamos um ambiente seguro todinho para vc começar a treinar e desenvolver suas habilidades.
 
 ## [Sand Box do Padawan](https://sandboxpadawan.myvtex.com/)
+
+<p align="left" style="margin-bottom:10px;margin-top:10px;">
+   <img   src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/may-the-force.gif" alt="May the force be with us">
+</p>
