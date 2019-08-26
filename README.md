@@ -54,8 +54,8 @@ E nunca se esqueça:
 </p>
 
 ##### Dicas 💡
-* [GIT](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao/)
-* [GIT Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
+* <a href="https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao/" target="_blank">GIT</a>
+* <a href="https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04" target="_blank">GIT Flow</a>
 
 
 ## Code 💻
