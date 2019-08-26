@@ -12,7 +12,7 @@
 ## Agora vc faz parte do nosso time. 🥳
 
 Sabemos que os primeiros dias no trampo novo é meio zuado, mas muita calma, vamos te da umas _call_ maneiras pra te ajudar a começar.
-Bora ?
+Bora?
 
 Vamos começar pelo mais importante para desenvolvedores...
 
@@ -66,7 +66,7 @@ Abaixo um pouco das tecnologias que a gente gosta: 😍
 * No CSS a gente da show, mas da uma puta preguiça de escrever, ai _nóis_ usa um [SASS](https://sass-lang.com/guide) pra pré-processar que o trem "avua"; 
 * A gente escreve javascript ES6. E sim tem [JQuery](https://jquery.com/) no meio.
 * [React JS](https://pt-br.reactjs.org/) ~~Hype~~ para algumas aplicaçãoe especificas.
-* E o [Webpack](https://webpack.js.org/) orquestando essa bagunça, organizada, é claro 😉
+* E o [Webpack](https://webpack.js.org/) orquestrando essa bagunça, organizada, é claro 😉
 
 
 E se vc estudar isso tudo com muito empenho...
