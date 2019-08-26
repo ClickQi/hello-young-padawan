@@ -43,7 +43,7 @@ Aqui na Click a maioria dos _Devs_ utilizam o [Visual Studio Code](https://code.
 Nossos queridos Designers escolheram o [Figma](https://www.figma.com) como ferramenta de UI para esbanjarem toda sua criatividade, vc pode fazer o download dele clicando [aqui](https://www.figma.com/downloads/)
 
 ### Ferramenta de proxy 🌐
-Para evitar umas 💩 em produção, nosso ambiente de desenvolvimento é mapeado para o _localhost_ (nada como nossa casa 😆). E para nos auxiliar nessa função, utilizams um carinha chamado [Charles](https://www.charlesproxy.com/), ele é uma ferramenta de proxy que nos permite interceptar requisições HTTP/HTTPS e mapea-las.
+Para evitar umas 💩 em produção, nosso ambiente de desenvolvimento é mapeado para o _localhost_ (nada como nossa casa 😆). E para nos auxiliar nessa função, utilizamos um carinha chamado [Charles](https://www.charlesproxy.com/), ele é uma ferramenta de proxy que nos permite interceptar requisições HTTP/HTTPS e mapea-las.
 
 ### Ferramenta de versionamento 🔥
 Versionamos toda nossa "arte" com [GIT](https://git-scm.com/) e flertamos com o [Git Flow](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) e armazenamos nossos projetos no [Bitbucket](https://bitbucket.org/)<br/>
@@ -61,10 +61,10 @@ E nunca se esqueça:
 ## Code 💻
 Abaixo um pouco das tecnologias que a gente gosta: 😍
 
-* Todo nosso _workflow_ roda em cima do [Node JS](https://nodejs.org/en/) essa coisa maravilhosa que mudou o mundo javascript.
+* Todo nosso _workflow_ roda em cima do [Node JS](https://nodejs.org/en/) essa coisa maravilhosa que mudou o mundo Javascript.
 * Aquele HTMLzinho filé, bem escrito, semântico e acessivel que aquece o coração.
 * No CSS a gente da show, mas da uma puta preguiça de escrever, ai _nóis_ usa um [SASS](https://sass-lang.com/guide) pra pré-processar que o trem "avua"; 
-* A gente escreve javascript ES6. E sim tem [JQuery](https://jquery.com/) no meio.
+* A gente escreve javascript ES6. E sim tem [jQuery](https://jquery.com/) no meio.
 * [React JS](https://pt-br.reactjs.org/) ~~Hype~~ para algumas aplicaçãoe especificas.
 * E o [Webpack](https://webpack.js.org/) orquestando essa bagunça, organizada, é claro 😉
 
