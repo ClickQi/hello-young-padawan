@@ -94,3 +94,14 @@ Para sua tranquilidade (e a nossa 😅), criamos um ambiente seguro todinho para
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
    <img   src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/may-the-force.gif" alt="May the force be with us">
 </p>
+
+# Aqui vai os primeiros passos com cada ferramenta 🤘
+<br/>
+
+### Git Flow
+O git flow é uma forma organizada de fazermos o versionamento dos nossos projetos. Temos a master que é a branch principal 
+
+são alguns comandos básicos que você vai usar:
+
+* git flow init (para iniciar o git flow)
+
