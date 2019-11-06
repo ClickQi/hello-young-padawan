@@ -112,12 +112,12 @@ Para fazer o mapeamento da pasta com os arquivos siga esses comandos:
 
 **VTEX:**(para VTEX com todas as URLs, fazer com o Path: /files/ e depois com /arquivos/)
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
-   <img width="200" src="https://raw.githubusercontent.com/milaniromulo/hello-young-padawan/master/img/git-fire.png" alt="Git Fire">
+   <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/mapeamentoVTEX.png" alt="Git Fire">
 </p>
 
 **TRAY:**
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
-   <img width="200" src="https://raw.githubusercontent.com/milaniromulo/hello-young-padawan/master/img/git-fire.png" alt="Git Fire">
+   <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/mapeamentoTRAY.png" alt="Git Fire">
 </p>
 
 ## [Sand Box do Padawan](https://sandboxpadawan.myvtex.com/)
