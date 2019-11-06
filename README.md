@@ -89,16 +89,10 @@ Para acessar as plataformas da VTEX basta utilizar o modelo de URL `[Nome da Loj
 
 Para sua tranquilidade (e a nossa 😅), criamos um ambiente seguro todinho para vc começar a treinar e desenvolver suas habilidades.
 
-## [Sand Box do Padawan](https://sandboxpadawan.myvtex.com/)
-
-<p align="left" style="margin-bottom:10px;margin-top:10px;">
-   <img   src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/may-the-force.gif" alt="May the force be with us">
-</p>
-
 # Aqui vai os primeiros passos com cada ferramenta 🤘
 
 ### Git Flow
-O git flow é uma forma organizada de fazermos o versionamento dos nossos projetos. 
+Depois de você ter pesquisado sobre o git e git flow, resumindo, o git flow é uma forma organizada de fazermos o versionamento dos nossos projetos. 
 
 São alguns comandos básicos que você vai usar:
 
@@ -106,5 +100,28 @@ São alguns comandos básicos que você vai usar:
 * git flow feature start NomeBranch (para criar uma nova branch, que irá ser uma cópia da Develop)
 * git flow feature finish NomeBranch (para finalizar a branch e fazer o merge com a Develop)
 
-Temos a master que é a branch principal, ao dar o "git flow init", ele irá criar a branch Develop que é uma cópia da Master, para podermos trabalhar nela com mais tranquilidade caso ocorra algum erro. Ao dar o comando "git flow feature start NomeBranch", este irá criar uma cópia da Develop e nesta branch você irá fazendo por etapas, como por exemplo o header de algum projeto, ao terminar este header você finaliza essa branch, e ele irá juntar ela com a Develop, depois é só inicar outra branch de outra parte do projeto que irá fazer.
+Temos a master que é a branch principal, ao dar o "git flow init", ele irá criar a branch Develop que é uma cópia da Master, para podermos trabalhar nela com mais tranquilidade caso ocorra algum erro. Ao dar o comando "git flow feature start NomeBranch", este irá criar uma cópia da Develop e nesta branch você irá fazendo por etapas, como por exemplo o header de algum projeto, ao terminar este header você finaliza essa branch, e ele irá juntar ela com a Develop, depois é só inicar outra branch de outra parte do projeto que irá fazer. E assim vai até terminar todo o projeto e subir tudo para a Develop, nós fazemos a junção da Develop com a Master que é a principal, lançando uma reelise (versão).
 
+### Charles
+O Charles é uma ferramenta que usamos para mapear os aquivos que estão no nosso pc para a URL do projeto, já que não fazemos o CSS e JS na plataforma (apenas o HTML é feito na plataforma). Então para juntar este HTML com o CSS e JS precisamos mapear os aquivos para podermos visualizar como está ficando o projeto.
+
+Para fazer o mapeamento da pasta com os arquivos siga esses comandos:
+
+* Primeiro você vai fazer a instalação do certificado de segurança, no menu em **Help - SSL Proxing - Install Charles Root Certificate - Instalar Certificado - Usuário Atual - Procurar - Autoridades de certificação raiz confiável**.
+* Com a página para o mapeamento aberta no navegador, clique com o direito no link desejado no charles (lembrando que é gerado mais de uma URL, é necessário fazer para todas), selecione a opção **Map local** e preencha o formulário de acordo com as imagens:
+
+**VTEX:**(para VTEX com todas as URLs, fazer com o Path: /files/ e depois com /arquivos/)
+<p align="left" style="margin-bottom:10px;margin-top:10px;">
+   <img width="200" src="https://raw.githubusercontent.com/milaniromulo/hello-young-padawan/master/img/git-fire.png" alt="Git Fire">
+</p>
+
+**TRAY:**
+<p align="left" style="margin-bottom:10px;margin-top:10px;">
+   <img width="200" src="https://raw.githubusercontent.com/milaniromulo/hello-young-padawan/master/img/git-fire.png" alt="Git Fire">
+</p>
+
+## [Sand Box do Padawan](https://sandboxpadawan.myvtex.com/)
+
+<p align="left" style="margin-bottom:10px;margin-top:10px;">
+   <img   src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/may-the-force.gif" alt="May the force be with us">
+</p>
