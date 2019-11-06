@@ -96,12 +96,15 @@ Para sua tranquilidade (e a nossa 😅), criamos um ambiente seguro todinho para
 </p>
 
 # Aqui vai os primeiros passos com cada ferramenta 🤘
-<br/>
 
 ### Git Flow
-O git flow é uma forma organizada de fazermos o versionamento dos nossos projetos. Temos a master que é a branch principal 
+O git flow é uma forma organizada de fazermos o versionamento dos nossos projetos. 
 
-são alguns comandos básicos que você vai usar:
+São alguns comandos básicos que você vai usar:
 
 * git flow init (para iniciar o git flow)
+* git flow feature start NomeBranch (para criar uma nova branch, que irá ser uma cópia da Develop)
+* git flow feature finish NomeBranch (para finalizar a branch e fazer o merge com a Develop)
+
+Temos a master que é a branch principal, ao dar o "git flow init", ele irá criar a branch Develop que é uma cópia da Master, para podermos trabalhar nela com mais tranquilidade caso ocorra algum erro. Ao dar o comando "git flow feature start NomeBranch", este irá criar uma cópia da Develop e nesta branch você irá fazendo por etapas, como por exemplo o header de algum projeto, ao terminar este header você finaliza essa branch, e ele irá juntar ela com a Develop, depois é só inicar outra branch de outra parte do projeto que irá fazer.
 
