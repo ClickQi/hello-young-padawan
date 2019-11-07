@@ -91,10 +91,10 @@ Para sua tranquilidade (e a nossa 😅), criamos um ambiente seguro todinho para
 
 # Aqui vai os primeiros passos com cada ferramenta 🤘
 
-### Git Flow
+### Git Flow ❤️
 Depois de você ter pesquisado sobre o git e git flow, resumindo, o git flow é uma forma organizada de fazermos o versionamento dos nossos projetos. 
 
-São alguns comandos básicos que você vai usar:
+São alguns comandos básicos que você vai usar: 👇
 
 * git flow init (para iniciar o git flow)
 * git flow feature start NomeBranch (para criar uma nova branch, que irá ser uma cópia da Develop)
@@ -102,23 +102,42 @@ São alguns comandos básicos que você vai usar:
 
 Temos a master que é a branch principal, ao dar o "git flow init", ele irá criar a branch Develop que é uma cópia da Master, para podermos trabalhar nela com mais tranquilidade caso ocorra algum erro. Ao dar o comando "git flow feature start NomeBranch", este irá criar uma cópia da Develop e nesta branch você irá fazendo por etapas, como por exemplo o header de algum projeto, ao terminar este header você finaliza essa branch, e ele irá juntar ela com a Develop, depois é só inicar outra branch de outra parte do projeto que irá fazer. E assim vai até terminar todo o projeto e subir tudo para a Develop, nós fazemos a junção da Develop com a Master que é a principal, lançando uma reelise (versão).
 
-### Charles
+### Charles 🌐
 O Charles é uma ferramenta que usamos para mapear os aquivos que estão no nosso pc para a URL do projeto, já que não fazemos o CSS e JS na plataforma (apenas o HTML é feito na plataforma). Então para juntar este HTML com o CSS e JS precisamos mapear os aquivos para podermos visualizar como está ficando o projeto.
 
-Para fazer o mapeamento da pasta com os arquivos siga esses comandos:
+Para fazer o mapeamento da pasta com os arquivos siga esses comandos: 👇
 
 * Primeiro você vai fazer a instalação do certificado de segurança, no menu em **Help - SSL Proxing - Install Charles Root Certificate - Instalar Certificado - Usuário Atual - Procurar - Autoridades de certificação raiz confiável**.
 * Com a página para o mapeamento aberta no navegador, clique com o direito no link desejado no charles (lembrando que é gerado mais de uma URL, é necessário fazer para todas), selecione a opção **Map local** e preencha o formulário de acordo com as imagens:
 
-**VTEX:**(para VTEX com todas as URLs, fazer com o Path: /files/ e depois com /arquivos/)
+🌷 **VTEX:** (para VTEX com todas as URLs, fazer com o Path: /files/ e depois com /arquivos/)
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
    <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/mapeamentoVTEX.png" alt="Git Fire">
 </p>
 
-**TRAY:**
+🌷 **TRAY:**
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
    <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/mapeamentoTRAY.png" alt="Git Fire">
 </p>
+
+### NPM ⭐️
+O <a href="https://www.hostinger.com.br/tutoriais/o-que-e-npm">NPM</a> é o Gerenciador de Pacotes do <a href="http://nodebr.com/o-que-e-node-js/">Node</a>, ao instalar o Node, o NPM vem junto. Ele é uma ferramenta de linha de comando que é usada para instalar vários módulos e gerenciar suas dependências, como por exemplo frameworks de carroussel, etc.
+
+Comandos: 👇
+
+* **npm install** (para fazer as instalações necessárias)
+* **npm install NomeDependência** (para instalar alguma dependência que irá utilizar)
+
+### Webpack 💌
+O <a href="https://medium.com/rocketseat/entendendo-e-dominando-o-webpack-4b2e8b3e02da">Webpack</a> é um empacotador de módulos JavaScript (compacta os arquivos para ficarem mais leves). Para entender outros tipos de arquivos como o CSS, existem os Loaders que são módulos que podem ser instalados separadamente. Os Loaders também são utilizados para converter JavaScript de uma versão pra outra.
+O Webpack é instalado através do NPM. Ele também é usado durante o desenvolvimento do projeto.
+
+Comandos: 👇
+
+* **npm run store-dev** (enquanto estiver no desenvolvimento da loja)
+* **npm run checkout-dev** (enquanto estiver no desenvolvimento do checkout)
+* **npm run store-prod** (para minificar os arquivos da loja quando estiver pronta para subir para a plataforma)
+* **npm run checkout-prod** (para minificar os arquivos do checkout quando estiver pronto para subir para a plataforma)
 
 ## [Sand Box do Padawan](https://sandboxpadawan.myvtex.com/)
 
