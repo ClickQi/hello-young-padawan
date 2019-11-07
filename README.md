@@ -110,7 +110,7 @@ Para fazer o mapeamento da pasta com os arquivos siga esses comandos:
 * Primeiro você vai fazer a instalação do certificado de segurança, no menu em **Help - SSL Proxing - Install Charles Root Certificate - Instalar Certificado - Usuário Atual - Procurar - Autoridades de certificação raiz confiável**.
 * Com a página para o mapeamento aberta no navegador, clique com o direito no link desejado no charles (lembrando que é gerado mais de uma URL, é necessário fazer para todas), selecione a opção **Map local** e preencha o formulário de acordo com as imagens:
 
-**VTEX:**(para VTEX com todas as URLs, fazer com o Path: /files/ e depois com /arquivos/)
+**VTEX:** (para VTEX com todas as URLs, fazer com o Path: /files/ e depois com /arquivos/)
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
    <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/mapeamentoVTEX.png" alt="Git Fire">
 </p>
