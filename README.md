@@ -19,7 +19,7 @@ Vamos começar pelo mais importante para desenvolvedores...
 ### Café! ☕️
 É grátis e fica lá na cozinha vc pode tomar o quanto quiser ;)
 
-Agora que temos combustivel vamo enfrente. 👉🏻
+Agora que temos combustivel vamo em frente. 👉🏻
 
 ![much to learn you still have](https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif)
 
@@ -65,7 +65,7 @@ Abaixo um pouco das tecnologias que a gente gosta: 😍
 * Aquele HTMLzinho filé, bem escrito, semântico e acessivel que aquece o coração.
 * No CSS a gente da show, mas da uma puta preguiça de escrever, ai _nóis_ usa um [SASS](https://sass-lang.com/guide) pra pré-processar que o trem "avua"; 
 * A gente escreve javascript ES6. E sim tem [jQuery](https://jquery.com/) no meio.
-* [React JS](https://pt-br.reactjs.org/) ~~Hype~~ para algumas aplicaçãoe especificas.
+* [React JS](https://pt-br.reactjs.org/) ~~Hype~~ para algumas aplicações específicas.
 * E o [Webpack](https://webpack.js.org/) orquestrando essa bagunça, organizada, é claro 😉
 
 
