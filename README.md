@@ -76,7 +76,7 @@ E se vc estudar isso tudo com muito empenho...
 </p>
 
 ### Plataformas de e-commerce 🛒
-Nós somos uma agência digital especializada em e-commerce e trabalhamos com plataformas no modelo SaaS (Software as a Service). Atualmente [VTEX](https://www.vtex.com/) e [Tray Corp](https://www.traycorp.com.br/) são nossas parceiras.
+Nós somos uma agência digital especializada em e-commerce e trabalhamos com plataformas no modelo SaaS (Software as a Service). Atualmente [VTEX](https://www.vtex.com/) é nossa principal parceira.
 
 ## VTEX
 * [Mini Curso Sobre](https://www.udemy.com/course/vtex-um-guia-completo-sobre-a-plataforma/)
@@ -114,11 +114,6 @@ Para fazer o mapeamento da pasta com os arquivos siga esses comandos: 👇
 
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
    <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/mapeamentoVTEX.png" alt="Git Fire">
-</p>
-
-🌷 **TRAY:**
-<p align="left" style="margin-bottom:10px;margin-top:10px;">
-   <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/mapeamentoTRAY.png" alt="Git Fire">
 </p>
 
 ### NPM ⭐️
