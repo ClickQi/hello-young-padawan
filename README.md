@@ -96,7 +96,7 @@ Para sua tranquilidade (e a nossa 😅), criamos um ambiente seguro todinho para
 Na VTEX temos um ambiente específico para trabalharmos, onde fica os templates e demais arquivos que é o CMS(Content Management System), lá você vai encontrar as seguintes pastas:
 
 <p align="left" style="margin-bottom:10px;margin-top:10px;">
-   <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/CMS.png" alt="CMS">
+   <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/CMS.png" alt="CMS"> 
 </p>
 
 * HTML Templates: é onde ficam salvos os templates das páginas, dentro dele encontramos a pasta Sub Templates, que são páginas reservadas para elementos que são muito usados, como por exemplo um Header, você monta apenas ele e depois é só colocar a tag <vtex:template id="Nome-do-subtemplate"/> para fazer as chamadas, assim não precisa escrever o Header em várias páginas.
