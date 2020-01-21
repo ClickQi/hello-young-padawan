@@ -78,18 +78,34 @@ E se vc estudar isso tudo com muito empenho...
 ### Plataformas de e-commerce 🛒
 Nós somos uma agência digital especializada em e-commerce e trabalhamos com plataformas no modelo SaaS (Software as a Service). Atualmente [VTEX](https://www.vtex.com/) é nossa principal parceira.
 
-## VTEX
+# Aqui vai os primeiros passos com cada ferramenta 🤘
+
+### VTEX 🌷
+
 * [Mini Curso Sobre](https://www.udemy.com/course/vtex-um-guia-completo-sobre-a-plataforma/)
 * [Documentação](https://help.vtex.com/developer-docs)
 * [Controles para templates](https://help.vtex.com/tutorial/lista-de-controles-para-templates?locale=pt)
 * [Controles para prateleira](https://help.vtex.com/tutorial/controles-do-template-de-prateleira?locale=pt)
 * [VTEX IO](https://help.vtex.com/tracks/vtex-io-getting-started?locale=pt)
+* [Overview da Plataforma](https://www.youtube.com/playlist?list=PLiM-nlQNKu6XyBtgdPU6Rlph89Nlr4pnO)
 
 Para acessar as plataformas da VTEX basta utilizar o modelo de URL `[Nome da Loja].myvtex.com/` e `[Nome da Loja].myvtex.com/admin` para o painel de administração.
 
 Para sua tranquilidade (e a nossa 😅), criamos um ambiente seguro todinho para vc começar a treinar e desenvolver suas habilidades.
 
-# Aqui vai os primeiros passos com cada ferramenta 🤘
+Na VTEX temos um ambiente específico para trabalharmos, onde fica os templates e demais arquivos que é o CMS(Content Management System), lá você vai encontrar as seguintes pastas:
+
+<p align="left" style="margin-bottom:10px;margin-top:10px;">
+   <img width="300" src="https://raw.githubusercontent.com/ClickQi/hello-young-padawan/master/img/CMS.png" alt="CMS">
+</p>
+
+* HTML Templates: é onde ficam salvos os templates das páginas, dentro dele encontramos a pasta Sub Templates, que são páginas reservadas para elementos que são muito usados, como por exemplo um Header, você monta apenas ele e depois é só colocar a tag <vtex:template id="Nome-do-subtemplate"/> para fazer as chamadas, assim não precisa escrever o Header em várias páginas.
+* Shelves templates: é onde ficam os templates de prateleiras de produtos, um espaço reservado pra você montar vários tipos de prateleiras e depois é só fazer a chamada na página específica que deseja inserir.
+* Custom Elements: aqui você pode montar um elemento personalizado, que pode ser um banner, um trecho html, o que quiser, e depois fazer a chamada dele com a tag <vtex.cmc:NomeElementoCustomizado/> (isso facilita caso você tenha que usar esse elemento em várias páginas e queira fazer alguma alteração depois, é só alterar em apenas um lugar, ou então caso o logista queira fazer alguma alteração sem ter que mexer na estrutura HTML).
+* URL Builder: aqui você pode fazer o direcionamento de determinada URL, colocando a URL que deseja alterar e a URL nova de destino.
+* Files Manager: são armazenados diversos aquivos, como imagens, arquivos de CSS, JS, XML e SWF.
+* Product Clusters (Collections): onde fica específicado as coleções da loja.
+* Sites and channels: é responsável pelo gerenciamento dos layouts e vínculos com templates e domínios. 
 
 ### Git Flow ❤️
 Depois de você ter pesquisado sobre o git e git flow, resumindo, o git flow é uma forma organizada de fazermos o versionamento dos nossos projetos. 
